@@ -28,6 +28,9 @@ def evaluate_resource_gap(target, current):
     else:
         return f"Structural gap identified: ${gap:,} ⚠️"
 
+# Testing my first Pull Request!
+
+
 # 4. Executing Structural Calculations
 evaluation_result = evaluate_resource_gap(target_allocation, current_allocation)
 print(f"Analysis Engine Output: {evaluation_result}")
