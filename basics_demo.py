@@ -3,7 +3,7 @@
 # =====================================================================
 
 # 1. Data Foundations (Variables & Types)
-name = "Abhishek - Version B"
+name = "Abhishek - Version A"
 target_allocation = 260000
 current_allocation = 210000
 
